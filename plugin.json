@@ -1,0 +1,7 @@
+{
+  "name": "IdsPlugin",
+  "author": "Arkanic",
+  "main": "idsplugin.IdsPlugin",
+  "description": "Allow players to find the ids of other players",
+  "version": 1.0
+}
